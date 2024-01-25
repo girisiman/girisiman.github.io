@@ -1,0 +1,8 @@
+site_name: Siman Giri
+theme:
+  name: material
+
+markdown_extensions:
+  - footnotes
+
+copyright: Copyright &copy; 2023 - 2024 Siman Giri

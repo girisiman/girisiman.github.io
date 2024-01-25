@@ -1,6 +1,6 @@
 site_name: Siman Giri
 theme:
-  name: material
+  name: bootstrap4
 
 markdown_extensions:
   - footnotes

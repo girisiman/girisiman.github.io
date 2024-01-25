@@ -2,7 +2,5 @@ site_name: Siman Giri
 theme:
   name: bootstrap4
 
-markdown_extensions:
-  - footnotes
 
 copyright: Copyright &copy; 2023 - 2024 Siman Giri

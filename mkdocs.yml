@@ -1,6 +1,32 @@
 site_name: Siman Giri
 theme:
-  name: bootstrap4
+  name: material
+
+plugins:
+  - search
+
+
+markdown_extensions:
+  - footnotes
+# Social Media Icons
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://linkedin.com/
+      name: LinkedIn Profile
+    - icon: fontawesome/brands/github 
+      link: https://github.com/girisiman
+      name: Github Profile
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/
+      name: Research Gate Profile
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.com/
+      name: Google Scholar's Profile
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/
+      name: ORCID's Profile
+
 
 
 copyright: Copyright &copy; 2023 - 2024 Siman Giri

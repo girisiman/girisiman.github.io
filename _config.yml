@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Siman Giri"
+title                    : "My Personal Website"
 title_separator          : "-"
 name                     : &name "Siman Giri"
 description              : &description "Lecturer @ Herald Colleges, Head @ Herald Center for AI and Emerging Technologies"
@@ -24,13 +24,13 @@ github_username         : "girisiman" # your GitHub username
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Siman Giri" # author name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Lecturer @ Herald Colleges, Head @ Herald Center for AI and Emerging Technologies"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Herald College kathmandu, University of Wolverhampton"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "siman.giri@heraldcollege.edu.np" 
 
   # Academic websites
   academia         : # URL

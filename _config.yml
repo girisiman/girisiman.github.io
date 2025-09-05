@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "My Personal Website"
+#title                    : "My Personal Website"
 title_separator          : "-"
 name                     : &name "Siman Giri"
 description              : &description "Lecturer @ Herald Colleges, Head @ Herald Center for AI and Emerging Technologies"
@@ -26,7 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Siman Giri" # author name
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer @ Herald Colleges, Head @ Herald Center for AI and Emerging Technologies"
+  bio              : "Lecturer @ Herald Colleges, 
+                      Head @ Herald Center for AI and Emerging Technologies"
   location         : "Earth"
   employer         : "Herald College kathmandu, University of Wolverhampton"
   uri              : # URL
